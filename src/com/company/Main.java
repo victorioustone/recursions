@@ -43,7 +43,7 @@ public class Main {
 
         System.out.println("****** СРАВНЕНИЕ ******" );
 
-        Array_r n = new Array_r();
+        ArrayR n = new ArrayR();
         int [] numsss = n.createAList();
         Search search1 = new Search(numsss);
         System.out.println("Поиск числа: 404" );

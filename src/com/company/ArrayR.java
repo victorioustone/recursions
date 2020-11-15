@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Random;
 
-public class Array_r {
+public class ArrayR {
     private int [] nums;
 
 //    создание массива

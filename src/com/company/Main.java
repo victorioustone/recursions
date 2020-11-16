@@ -64,7 +64,7 @@ public class Main {
 //        задание 3
         System.out.println("Задание 3");
         Solution sol = new Solution();
-        System.out.println("Решение -> "+Arrays.toString(sol.solution()));
+        System.out.println("Решение -> "+sol.solution());
         System.out.println();
 
 

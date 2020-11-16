@@ -38,15 +38,13 @@ public class Solution {
     }
 
 //    объединение действий
-    public double [] solution(){
+    public double solution(){
         if (convergence() == Boolean.TRUE){
             if (methodActions() == Boolean.TRUE){
-                double [] result = new double[] {a,b};
-                return result;
+                return x;
             }
         }
-        double [] result = new double[] {'-'};
-        return result;
+        return x = 0;
     }
 
 
